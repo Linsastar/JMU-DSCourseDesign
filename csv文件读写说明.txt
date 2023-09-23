@@ -1,0 +1,3 @@
+使用Excel打开csv文件可能显示乱码。这是因为CSV文件采用了UTF-8编码。
+直接使用记事本打开即可。
+C++读写csvhttps://www.cnblogs.com/exciting/p/11015115.html
